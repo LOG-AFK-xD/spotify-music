@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/KaisenXXD/Spotify-Music",
+    "repository": "https://github.com/log-afk-xD/Spotify-Music",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
